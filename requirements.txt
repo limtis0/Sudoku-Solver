@@ -1,0 +1,6 @@
+pygame==2.1.2
+opencv_python==4.5.5.64
+tensorflow==2.8.0
+imutils==0.5.4
+numpy==1.22.3
+Pillow==9.0.1
